@@ -47,7 +47,7 @@ The dataset has a **usability index of 10** on Kaggle, with no missing values, e
 ### How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/student-gpa-prediction.git
+    git clone https://github.com/mrchreesa/linear-regression.git
     ```
 2. Install dependencies:
     ```bash
