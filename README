@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Predicting Student GPA Using Linear Regression</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; }
-        h1, h2, h3 { color: #2c3e50; }
-        code { background-color: #f4f4f4; padding: 3px; border-radius: 3px; }
-        pre { background: #f4f4f4; padding: 10px; border-radius: 5px; }
-        a { color: #2980b9; text-decoration: none; }
-    </style>
-</head>
-<body>
+
     <h1>Experiment Overview</h1>
     
     <h2>Project Title: Predicting Student GPA Using Linear Regression</h2>
@@ -90,6 +76,4 @@
     </ul>
     
     <p>This repository serves as a comprehensive resource for understanding and predicting student academic performance using machine learning techniques.</p>
-</body>
-</html>
 
