@@ -33,9 +33,8 @@ The dataset has a **usability index of 10** on Kaggle, with no missing values, e
 - The linear regression model successfully captured academic performance trends with high accuracy.
 
 ### Repository Contents
-- `notebooks/`: Jupyter notebooks for data analysis and model implementation
-- `data/`: Dataset files used for training and evaluation
-- `models/`: Saved trained models for reproducibility
+- `student_pred.ipynb`: Jupyter notebooks for data analysis and model implementation
+- `Student_performance_data_.csv`: Dataset files used for training and evaluation
 - `README.md`: Project documentation
 
 ### References
